@@ -1,0 +1,59 @@
+{
+  "merchandise": [
+    {
+      "id": "merchandise.1",
+      "title": "Pokemon Eeveelutions Wash Backpack",
+      "rating": {
+        "stars": 4,
+        "maxStars": 5
+      },
+      "image": "/src/assets/images/merchandise.1.png",
+      "product": "Bag",
+      "price": "1782.58"
+    },
+    {
+      "id": "merchandise.2",
+      "title": "Funko One Piece Pop! Poster Ace Wanted Poster Vinyl Figure",
+      "rating": {
+        "stars": 5,
+        "maxStars": 5
+      },
+      "image": "/src/assets/images/merchandise.2.png",
+      "product": "Funko",
+      "price": "1092.76"
+    },
+    {
+      "id": "merchandise.3",
+      "title": "Naruto Shippuden Itachi Eyes Panel Hoodie",
+      "rating": {
+        "stars": 4.5,
+        "maxStars": 5
+      },
+      "image": "/src/assets/images/merchandise.3.png",
+      "product": "Hoodie",
+      "price": "3014.70"
+    },
+    {
+      "id": "merchandise.4",
+      "title": "Chainsaw Man Denji Power Assorted Sitting Plush",
+      "rating": {
+        "stars": 4,
+        "maxStars": 5
+      },
+      "image": "/src/assets/images/merchandise.4.png",
+      "product": "Plush",
+      "price": "1641.88"
+    },
+    {
+      "id": "merchandise.5",
+      "title": "Death Note Misa Tie-Dye Boyfriend Fit Girls T-Shirt",
+      "rating": {
+        "stars": 4.5,
+        "maxStars": 5
+      },
+      "image": "/src/assets/images/merchandise.5.png",
+      "product": "T-Shirt",
+      "price": "1477.15"
+    }
+  ]
+}
