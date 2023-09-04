@@ -7,7 +7,7 @@
         "stars": 4,
         "maxStars": 5
       },
-      "image": "/public/images/merchandise.1.png",
+      "image": "/src/assets/images/merchandise.1.png",
       "product": "Bag",
       "price": "1782.58"
     },
@@ -18,7 +18,7 @@
         "stars": 5,
         "maxStars": 5
       },
-      "image": "/public/images/merchandise.2.png",
+      "image": "/src/assets/images/merchandise.2.png",
       "product": "Funko",
       "price": "1092.76"
     },
@@ -29,7 +29,7 @@
         "stars": 4.5,
         "maxStars": 5
       },
-      "image": "/public/images/merchandise.3.png",
+      "image": "/src/assets/images/merchandise.3.png",
       "product": "Hoodie",
       "price": "3014.70"
     },
@@ -40,7 +40,7 @@
         "stars": 4,
         "maxStars": 5
       },
-      "image": "/public/images/merchandise.4.png",
+      "image": "/src/assets/images/merchandise.4.png",
       "product": "Plush",
       "price": "1641.88"
     },
@@ -51,7 +51,7 @@
         "stars": 4.5,
         "maxStars": 5
       },
-      "image": "/public/images/merchandise.5.png",
+      "image": "/src/assets/images/merchandise.5.png",
       "product": "T-Shirt",
       "price": "1477.15"
     }

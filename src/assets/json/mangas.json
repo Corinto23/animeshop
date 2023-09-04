@@ -4,7 +4,7 @@
         "id": "mangas.1",
         "title": "Spy x Family",
         "genre": "Adventure, Action, Comedy",
-        "image": "/public/images/mangas.1.png",
+        "image": "/src/assets/images/mangas.1.png",
         "volume":"1",
         "price": "585.00"
       },
@@ -12,7 +12,7 @@
         "id": "mangas.2",
         "title": "Jujutsu Kaisen",
         "genre": "Fantasy, Adventure, Action",
-        "image": "/public/images/mangas.2.png",
+        "image": "/src/assets/images/mangas.2.png",
         "volume":"1",
         "price": "550.00"
       },
@@ -20,7 +20,7 @@
         "id": "mangas.3",
         "title": "Chainsaw Man",
         "genre": "Fantasy, Action, Drama",
-        "image": "/public/images/mangas.3.png",
+        "image": "/src/assets/images/mangas.3.png",
         "volume":"1",
         "price": "579.00"
       },
@@ -28,7 +28,7 @@
         "id": "mangas.4",
         "title": "Black Clover",
         "genre": "Fantasy, Action, Comedy",
-        "image": "/public/images/mangas.4.png",
+        "image": "/src/assets/images/mangas.4.png",
         "volume":"1",
         "price": "579.00"
       },
@@ -36,7 +36,7 @@
         "id": "mangas.5",
         "title": "One Piece",
         "genre": "Adventure, Action, Drama",
-        "image": "/public/images/mangas.5.png",
+        "image": "/src/assets/images/mangas.5.png",
         "volume":"1",
         "price": "579.00"
       }
