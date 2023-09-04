@@ -4,7 +4,7 @@
         "id": "anime.1",
         "title": "Demon Slayer: Kimetsu No Yaiba Part 2 - Blu-ray",
         "genre": "Fantasy, Adventure, Action",
-        "image": "/src/assets/images/anime.1.png",
+        "image": "/public/images/anime.1.png",
         "episodes":"1-13",
         "price": "1782.58"
       },
@@ -12,7 +12,7 @@
         "id": "anime.2",
         "title": "AJIN: Season 2 - Blu-ray",
         "genre": "Sci-fi, Adventure, Action",
-        "image": "/src/assets/images/anime.2.png",
+        "image": "/public/images/anime.2.png",
         "episodes":"14-26",
         "price": "1782.58"
       },
@@ -20,7 +20,7 @@
         "id": "anime.3",
         "title": "Castlevania: Season 2 - Blu-ray",
         "genre": "Fantasy, Adventure, Action",
-        "image": "/src/assets/images/anime.3.png",
+        "image": "/public/images/anime.3.png",
         "episodes":"1-8",
         "price": "1782.58"
       },
@@ -28,7 +28,7 @@
         "id": "anime.4",
         "title": "Cyber City Oedo 808 Remastered - Blu-ray",
         "genre": "Action, Cyberpunk, Tech noir",
-        "image": "/src/assets/images/anime.4.png",
+        "image": "/public/images/anime.4.png",
         "episodes":"3",
         "price": "997.93"
       },
@@ -36,7 +36,7 @@
         "id": "anime.5",
         "title": "Blood-C Complete TV Series Collection - Blu-ray",
         "genre": "Action, Horror, Thriller",
-        "image": "/src/assets/images/anime.5.png",
+        "image": "/public/images/anime.5.png",
         "episodes":"1-12",
         "price": "1782.58"
       }
