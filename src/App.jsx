@@ -14,7 +14,7 @@ function App() {
       <CartProvider>
         <Navbar />
         <Routes>
-          <Route path="home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="home" element={<Home />} />
           <Route path="manga" element={<Manga />} />
           <Route path="anime" element={<Anime />} />
