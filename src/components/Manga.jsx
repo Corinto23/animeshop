@@ -4,7 +4,7 @@ const Manga = () => {
   const [mangas, setMangas] = useState([]);
 
   useEffect(() => {
-    fetch("/src/assets/json/mangas.json")
+    fetch("/src/json/mangas.json")
       .then((response) => response.json())
       .then((data) => setMangas(data.mangas))
       .catch((error) => console.error("Error fetching data:", error));

@@ -4,7 +4,7 @@ const Merchandise = () => {
   const [merchandise, setMerchandise] = useState([]);
 
   useEffect(() => {
-    fetch("/src/assets/json/merchandise.json")
+    fetch("/src/json/merchandise.json")
       .then((response) => response.json())
       .then((data) => setMerchandise(data.merchandise))
       .catch((error) => console.error("Error fetching data:", error));

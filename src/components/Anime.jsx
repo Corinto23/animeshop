@@ -4,7 +4,7 @@ const Anime = () => {
   const [anime, setanime] = useState([]);
 
   useEffect(() => {
-    fetch("/src/assets/json/anime.json")
+    fetch("/src/json/anime.json")
       .then((response) => response.json())
       .then((data) => setanime(data.anime))
       .catch((error) => console.error("Error fetching data:", error));

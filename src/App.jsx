@@ -1,12 +1,12 @@
 import { Route, Routes } from "react-router-dom";
-import Home from "./assets/components/Home";
-import Navbar from "./assets/components/Navbar";
-import Manga from "./assets/components/Manga";
-import Anime from "./assets/components/Anime";
-import Merchandise from "./assets/components/Merchandise";
-import Footer from "./assets/components/Footer";
-import { CartProvider } from "./assets/components/CartContext";
-import CheckOut from "./assets/components/CheckOut";
+import Home from "./components/Home";
+import Navbar from "./components/Navbar";
+import Manga from "./components/Manga";
+import Anime from "./components/Anime";
+import Merchandise from "./components/Merchandise";
+import Footer from "./components/Footer";
+import { CartProvider } from "./components/CartContext";
+import CheckOut from "./components/CheckOut";
 
 function App() {
   return (
